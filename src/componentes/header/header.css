@@ -1,0 +1,54 @@
+.logo {
+  width: 20%;
+  height: 80px;
+}
+
+.bi-list {
+  font-size: 30px;
+}
+
+.bi-x-square {
+  font-size: 25px;
+}
+
+ul,
+li {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+.modal {
+  width: 100%;
+  display: none;
+  flex-direction: row-reverse;
+  margin-top: 10px;
+}
+
+@media (min-width: 768px) {
+  .logo {
+    width: 8%;
+  }
+
+  .modal {
+    display: flex;
+    flex-direction: row;
+  }
+
+  ul,
+  li {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+
+  .bi-x-square,
+  .bi-list {
+    display: none;
+  }
+
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between !important;
+  }
+}
