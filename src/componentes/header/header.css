@@ -18,7 +18,7 @@ li {
 }
 
 .modal {
-  width: 100%;
+
   display: none;
   flex-direction: row-reverse;
   margin-top: 10px;
