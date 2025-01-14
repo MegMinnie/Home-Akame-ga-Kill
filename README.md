@@ -25,7 +25,10 @@ Ao clicar no nome de um dos integrantes, a página exibe dinamicamente o nome, a
 "_blank">clique aqui</a></p>
 
 ## Screenshots
+**Versão desktop**
 ![tela 1 ](fotos/tela1.png)
+<br>
+**Versão mobile**
 ![tela 2 ](fotos/tela2.png)
 ![tela 3 ](fotos/tela3.png)
 
