@@ -31,7 +31,7 @@ Ao clicar no nome de um dos integrantes, a página exibe dinamicamente o nome, a
 **Versão mobile**
 <br>
 ![tela 2 ](fotos/tela2.png)
-<br>
+<br><br> <br>
 ![tela 3 ](fotos/tela3.png)
 
 </div>
